@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IlliterateB
 - 👀 I’m interested in learning coding as a prospect for a career field when I grow up.
 - 🌱 I’m currently learning JavaScript as my beginner language.
-- 💞️ I’m looking to collaborate on any beginner friendly projects as I want to use what I learn.
+- 💞️ I’m looking to collaborate on any beginner friendly projects as I want to use what I have learnt so far.
 
 
 <!---
